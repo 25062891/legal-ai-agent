@@ -1,0 +1,6 @@
+venv/
+.venv/
+model_cache/
+vector_db/
+__pycache__/
+.DS_Store
