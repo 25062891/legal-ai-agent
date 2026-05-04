@@ -1,6 +1,3 @@
-Since you are the Integration Lead (Member D), presenting your project in English on GitHub is the right move—it makes it look professional and accessible to a global audience (and most hackathon judges).
-
-Here is the English version of your README.md. You can copy and paste this directly:
 
 ⚖️ Malaysia Legal AI Agent (Employment Act 1955)
 2026 Hackathon Project - An automated contract audit system powered by RAG (Retrieval-Augmented Generation) specifically tailored for the Malaysian legal landscape.
